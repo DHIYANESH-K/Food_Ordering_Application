@@ -2,6 +2,15 @@
     margin:0;
     padding:0;
 }
-.heading{
+.heading_1{
     color:red;
+}
+.heading_2{
+    color:green;
+}
+.heading_21{
+    color:yellow;
+}
+.heading_22{
+    color:pink;
 }
