@@ -2,10 +2,19 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 
-// JSX - HTML-like or XML-like syntax
-const jsxHeading=(<h1 className="heading">
+// React Element
+const heading=(<h1 className="heading">
     Hello World
-    </h1>)
+    </h1>);
+
+
+// React Component
+    // Class Based Component
+    // Functional Component
+
+const HeadingComponent=()=>{
+    return <h1 className="heading">React Functional Component</h1>;
+}
 
 let root=ReactDOM.createRoot(document.getElementById("root"));
-root.render(jsxHeading);
+root.render(<HeadingComponent/>);
