@@ -1,0 +1,35 @@
+{
+  "name": "food_ordering_app",
+  "version": "1.0.0",
+  "description": "Food Oredering Application",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHIYANESH-K/Food_Ordering_Application.git"
+  },
+  "keywords": [
+    "React",
+    "React_Router",
+    "Redux",
+    "Tailwind",
+    "CSS"
+  ],
+  "author": "Dhiyanesh K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DHIYANESH-K/Food_Ordering_Application/issues"
+  },
+  "homepage": "https://github.com/DHIYANESH-K/Food_Ordering_Application#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist":["last 2 versions"]
+}
