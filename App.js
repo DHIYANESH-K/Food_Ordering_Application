@@ -20,30 +20,28 @@ const Header = () => {
     );
 };
 
-let styleCard={
-    backgroundColor:"lightgray",
+let styleCard = {
+    backgroundColor: "lightgray",
+    textAlign: "center",
 };
 
-const RestaurantCard=()=>{
-    return(<div className="res_card" style={styleCard}>
+const RestaurantCard = (props) => {
+    let { resName, cuisine } = props
+    return (<div className="res_card" style={styleCard}>
         <h3>Restaurant</h3>
+        <h5>{resName}</h5>
+        <div>{cuisine}</div>
     </div>)
 }
 
-const Body=()=>{
+const Body = () => {
     return (<div>
         <div className="search">Search</div>
         <div className="res_container">
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
-            <RestaurantCard/>
+            <RestaurantCard
+                resName="Meghana Foods"
+                cuisine="Biryani, North Indian, Asian" />
+            <RestaurantCard resName="KFC" cuisine="Burger, Fast Food" />
         </div>
     </div>)
 }
@@ -52,7 +50,7 @@ const AppLayout = () => {
     return (
         <div className="app">
             <Header />
-            <Body/>
+            <Body />
         </div>
     );
 };
