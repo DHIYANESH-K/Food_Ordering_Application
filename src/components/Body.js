@@ -1,9 +1,16 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import resList from "../utils/mockData";
 import RestaurantCard from "./RestaurantCard";
 
 const Body = () => {
-    let [listOfRestaurants,setListOfRestaurants]=useState(resList)
+    let [listOfRestaurants,setListOfRestaurants]=useState(resList);
+
+    useEffect(()=>{
+        console.log("UseEffect called ");
+    },[])
+
+    console.log("Rendered");
+
     return (<div>
         <button className="search"
         onClick={()=>{
