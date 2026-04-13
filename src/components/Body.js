@@ -1,15 +1,23 @@
 import { useState, useEffect } from "react";
-import resList from "../utils/mockData";
+import resData from "../utils/mockData";
 import RestaurantCard from "./RestaurantCard";
+import Shimmer from "./Shimmer";
 
 const Body = () => {
-    let [listOfRestaurants,setListOfRestaurants]=useState(resList);
+    let [listOfRestaurants,setListOfRestaurants]=useState([]);
 
+    let getData=()=>{
+        setListOfRestaurants(resData.data.cards[1].card.card.gridElements.infoWithStyle.restaurants);
+    }
+    
     useEffect(()=>{
-        console.log("UseEffect called ");
+        setTimeout(()=>getData(),2000);
     },[])
 
-    console.log("Rendered");
+    if(listOfRestaurants.length===0)
+    {
+        return(<Shimmer/>)
+    }
 
     return (<div>
         <button className="search"
