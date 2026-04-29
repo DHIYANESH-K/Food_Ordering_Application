@@ -1,12 +1,13 @@
-let resData = {
+export let resData = {
     "statusCode": 0,
     "data": {
         "statusMessage": "done successfully",
         "pageOffset": {
-            "nextOffset": "CJhlELQ4KIDYrN6IxOjEDzCnEzgC",
+            "nextOffset": "CJhlELQ4KICojK/qlNzoYjCnEzgD",
             "widgetOffset": {
                 "NewListingView_category_bar_chicletranking_TwoRows": "",
                 "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
+                "Restaurant_Group_WebView_PB_Theme": "",
                 "Restaurant_Group_WebView_SEO_PB_Theme": "",
                 "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "9",
                 "inlineFacetFilter": "",
@@ -55,29 +56,6 @@ let resData = {
                         "imageGridCards": {
                             "info": [
                                 {
-                                    "id": "750591",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
-                                    "action": {
-                                        "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
-                                        "text": "Biryani",
-                                        "type": "WEBLINK"
-                                    },
-                                    "entityType": "BANNER",
-                                    "accessibility": {
-                                        "altText": "restaurants curated for biryani",
-                                        "altTextCta": "open"
-                                    },
-                                    "entityId": "swiggy://collectionV2?collection_id=83639&tags=layout_CCS_Biryani&search_context=biryani",
-                                    "frequencyCapping": {},
-                                    "externalMarketing": {},
-                                    "overlayIcon": {},
-                                    "footerOverlay": {
-                                        "title": {},
-                                        "subtitle": {},
-                                        "cta": {}
-                                    }
-                                },
-                                {
                                     "id": "750585",
                                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
                                     "action": {
@@ -91,52 +69,6 @@ let resData = {
                                         "altTextCta": "open"
                                     },
                                     "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
-                                    "frequencyCapping": {},
-                                    "externalMarketing": {},
-                                    "overlayIcon": {},
-                                    "footerOverlay": {
-                                        "title": {},
-                                        "subtitle": {},
-                                        "cta": {}
-                                    }
-                                },
-                                {
-                                    "id": "750581",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/05a939eb-fd4e-4308-b989-d1c54f4421b3_northindian1.png",
-                                    "action": {
-                                        "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
-                                        "text": "North Indian",
-                                        "type": "WEBLINK"
-                                    },
-                                    "entityType": "BANNER",
-                                    "accessibility": {
-                                        "altText": "restaurants curated for north indian",
-                                        "altTextCta": "open"
-                                    },
-                                    "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
-                                    "frequencyCapping": {},
-                                    "externalMarketing": {},
-                                    "overlayIcon": {},
-                                    "footerOverlay": {
-                                        "title": {},
-                                        "subtitle": {},
-                                        "cta": {}
-                                    }
-                                },
-                                {
-                                    "id": "750587",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
-                                    "action": {
-                                        "link": "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
-                                        "text": "Chinese",
-                                        "type": "WEBLINK"
-                                    },
-                                    "entityType": "BANNER",
-                                    "accessibility": {
-                                        "altText": "restaurant curated for chinese",
-                                        "altTextCta": "open"
-                                    },
-                                    "entityId": "swiggy://collectionV2?collection_id=83636&tags=layout_CCS_Chinese",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -170,19 +102,19 @@ let resData = {
                                     }
                                 },
                                 {
-                                    "id": "750204",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Parotta.png",
+                                    "id": "750591",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
                                     "action": {
-                                        "link": "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
-                                        "text": "Parotta",
+                                        "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+                                        "text": "Biryani",
                                         "type": "WEBLINK"
                                     },
                                     "entityType": "BANNER",
                                     "accessibility": {
-                                        "altText": "restaurant curated for parotta",
+                                        "altText": "restaurants curated for biryani",
                                         "altTextCta": "open"
                                     },
-                                    "entityId": "80477",
+                                    "entityId": "swiggy://collectionV2?collection_id=83639&tags=layout_CCS_Biryani&search_context=biryani",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -216,42 +148,19 @@ let resData = {
                                     }
                                 },
                                 {
-                                    "id": "750596",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
+                                    "id": "750204",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Parotta.png",
                                     "action": {
-                                        "link": "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
-                                        "text": "Ice Cream",
+                                        "link": "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
+                                        "text": "Parotta",
                                         "type": "WEBLINK"
                                     },
                                     "entityType": "BANNER",
                                     "accessibility": {
-                                        "altText": "restaurants curated for icecream",
+                                        "altText": "restaurant curated for parotta",
                                         "altTextCta": "open"
                                     },
-                                    "entityId": "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
-                                    "frequencyCapping": {},
-                                    "externalMarketing": {},
-                                    "overlayIcon": {},
-                                    "footerOverlay": {
-                                        "title": {},
-                                        "subtitle": {},
-                                        "cta": {}
-                                    }
-                                },
-                                {
-                                    "id": "750589",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
-                                    "action": {
-                                        "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
-                                        "text": "Burgers",
-                                        "type": "WEBLINK"
-                                    },
-                                    "entityType": "BANNER",
-                                    "accessibility": {
-                                        "altText": "restaurants curated for burger",
-                                        "altTextCta": "open"
-                                    },
-                                    "entityId": "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger&search_context=burger",
+                                    "entityId": "80477",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -308,19 +217,19 @@ let resData = {
                                     }
                                 },
                                 {
-                                    "id": "745861",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Shake.png",
+                                    "id": "750587",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
                                     "action": {
-                                        "link": "https://www.swiggy.com/collections/83673?collection_id=83673&tags=layout_CCS_Shakes&type=rcv2",
-                                        "text": "Shake",
+                                        "link": "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
+                                        "text": "Chinese",
                                         "type": "WEBLINK"
                                     },
                                     "entityType": "BANNER",
                                     "accessibility": {
-                                        "altText": "restaurants curated for shakes",
+                                        "altText": "restaurant curated for chinese",
                                         "altTextCta": "open"
                                     },
-                                    "entityId": "swiggy://collectionV2?collection_id=83673&tags=layout_CCS_Shakes",
+                                    "entityId": "swiggy://collectionV2?collection_id=83636&tags=layout_CCS_Chinese",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -331,42 +240,19 @@ let resData = {
                                     }
                                 },
                                 {
-                                    "id": "749772",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+                                    "id": "750589",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
                                     "action": {
-                                        "link": "https://www.swiggy.com/collections/80463?collection_id=80463&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
-                                        "text": "Noodles",
+                                        "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
+                                        "text": "Burgers",
                                         "type": "WEBLINK"
                                     },
                                     "entityType": "BANNER",
                                     "accessibility": {
-                                        "altText": "restaurant curated for noodles",
+                                        "altText": "restaurants curated for burger",
                                         "altTextCta": "open"
                                     },
-                                    "entityId": "80463",
-                                    "frequencyCapping": {},
-                                    "externalMarketing": {},
-                                    "overlayIcon": {},
-                                    "footerOverlay": {
-                                        "title": {},
-                                        "subtitle": {},
-                                        "cta": {}
-                                    }
-                                },
-                                {
-                                    "id": "750561",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/2/4/9a22cf0d-f44c-4345-a48d-29033aa19729_Vada.png",
-                                    "action": {
-                                        "link": "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
-                                        "text": "Vada",
-                                        "type": "WEBLINK"
-                                    },
-                                    "entityType": "BANNER",
-                                    "accessibility": {
-                                        "altText": "restaurants curated for vada",
-                                        "altTextCta": "open"
-                                    },
-                                    "entityId": "80425",
+                                    "entityId": "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger&search_context=burger",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -400,19 +286,19 @@ let resData = {
                                     }
                                 },
                                 {
-                                    "id": "750225",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/186ebf5c-d9ad-4d2b-a2b0-77795e19241f_Salad2.png",
+                                    "id": "750637",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Orange juice.png",
                                     "action": {
-                                        "link": "https://www.swiggy.com/collections/80394?collection_id=80394&tags=layout_CCS_Salad&type=rcv2",
-                                        "text": "Salad",
+                                        "link": "https://www.swiggy.com/collections/80445?collection_id=80445&tags=layout_Juices_Contextual&type=rcv2",
+                                        "text": "Juice",
                                         "type": "WEBLINK"
                                     },
                                     "entityType": "BANNER",
                                     "accessibility": {
-                                        "altText": "restaurant curated for salad",
+                                        "altText": "restaurants curated for juice",
                                         "altTextCta": "open"
                                     },
-                                    "entityId": "swiggy://collectionV2?collection_id=80394&tags=layout_CCS_Salad",
+                                    "entityId": "swiggy://collectionV2?collection_id=80445&tags=layout_Juices_Contextual",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -446,19 +332,111 @@ let resData = {
                                     }
                                 },
                                 {
-                                    "id": "750201",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
+                                    "id": "750252",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
                                     "action": {
-                                        "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
-                                        "text": "Paratha",
+                                        "link": "https://www.swiggy.com/collections/80406?collection_id=80406&tags=layout_CCS_Tea&type=rcv2",
+                                        "text": "Tea",
                                         "type": "WEBLINK"
                                     },
                                     "entityType": "BANNER",
                                     "accessibility": {
-                                        "altText": "restaurants curated for paratha",
+                                        "altText": "restaurants curated for tea",
                                         "altTextCta": "open"
                                     },
-                                    "entityId": "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
+                                    "entityId": "swiggy://collectionV2?collection_id=80406&tags=layout_CCS_Tea",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "overlayIcon": {},
+                                    "footerOverlay": {
+                                        "title": {},
+                                        "subtitle": {},
+                                        "cta": {}
+                                    }
+                                },
+                                {
+                                    "id": "749768",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Momos.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/80461?collection_id=80461&tags=layout_CCS_Momos&type=rcv2",
+                                        "text": "Momos",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurant curated for momos",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "swiggy://collectionV2?collection_id=80461&tags=layout_CCS_Momos",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "overlayIcon": {},
+                                    "footerOverlay": {
+                                        "title": {},
+                                        "subtitle": {},
+                                        "cta": {}
+                                    }
+                                },
+                                {
+                                    "id": "749772",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/80463?collection_id=80463&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
+                                        "text": "Noodles",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurant curated for noodles",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "80463",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "overlayIcon": {},
+                                    "footerOverlay": {
+                                        "title": {},
+                                        "subtitle": {},
+                                        "cta": {}
+                                    }
+                                },
+                                {
+                                    "id": "750643",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Idli.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/80440?collection_id=80440&tags=layout_CCS_Idli&type=rcv2",
+                                        "text": "Idli",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurants curated for idly",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "swiggy://collectionV2?collection_id=80440&tags=layout_CCS_Idli",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "overlayIcon": {},
+                                    "footerOverlay": {
+                                        "title": {},
+                                        "subtitle": {},
+                                        "cta": {}
+                                    }
+                                },
+                                {
+                                    "id": "750561",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/2/4/9a22cf0d-f44c-4345-a48d-29033aa19729_Vada.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
+                                        "text": "Vada",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurants curated for vada",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "80425",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -492,19 +470,42 @@ let resData = {
                                     }
                                 },
                                 {
-                                    "id": "750206",
-                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
+                                    "id": "745861",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Shake.png",
                                     "action": {
-                                        "link": "https://www.swiggy.com/collections/80479?collection_id=80479&search_context=pasta&tags=layout_CCS_Pasta&type=rcv2",
-                                        "text": "Pasta",
+                                        "link": "https://www.swiggy.com/collections/83673?collection_id=83673&tags=layout_CCS_Shakes&type=rcv2",
+                                        "text": "Shake",
                                         "type": "WEBLINK"
                                     },
                                     "entityType": "BANNER",
                                     "accessibility": {
-                                        "altText": "restaurant curated for pasta",
+                                        "altText": "restaurants curated for shakes",
                                         "altTextCta": "open"
                                     },
-                                    "entityId": "swiggy://collectionV2?collection_id=80479&tags=layout_CCS_Pasta&search_context=pasta",
+                                    "entityId": "swiggy://collectionV2?collection_id=83673&tags=layout_CCS_Shakes",
+                                    "frequencyCapping": {},
+                                    "externalMarketing": {},
+                                    "overlayIcon": {},
+                                    "footerOverlay": {
+                                        "title": {},
+                                        "subtitle": {},
+                                        "cta": {}
+                                    }
+                                },
+                                {
+                                    "id": "750131",
+                                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
+                                    "action": {
+                                        "link": "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
+                                        "text": "Dosa",
+                                        "type": "WEBLINK"
+                                    },
+                                    "entityType": "BANNER",
+                                    "accessibility": {
+                                        "altText": "restaurants curated for dosa",
+                                        "altTextCta": "open"
+                                    },
+                                    "entityId": "swiggy://collectionV2?collection_id=80424&tags=layout_CCS_Dosa",
                                     "frequencyCapping": {},
                                     "externalMarketing": {},
                                     "overlayIcon": {},
@@ -534,29 +535,6 @@ let resData = {
                                 "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
                                 "info": [
                                     {
-                                        "id": "750591",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
-                                        "action": {
-                                            "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
-                                            "text": "Biryani",
-                                            "type": "WEBLINK"
-                                        },
-                                        "entityType": "BANNER",
-                                        "accessibility": {
-                                            "altText": "restaurants curated for biryani",
-                                            "altTextCta": "open"
-                                        },
-                                        "entityId": "swiggy://collectionV2?collection_id=83639&tags=layout_CCS_Biryani&search_context=biryani",
-                                        "frequencyCapping": {},
-                                        "externalMarketing": {},
-                                        "overlayIcon": {},
-                                        "footerOverlay": {
-                                            "title": {},
-                                            "subtitle": {},
-                                            "cta": {}
-                                        }
-                                    },
-                                    {
                                         "id": "750585",
                                         "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
                                         "action": {
@@ -570,52 +548,6 @@ let resData = {
                                             "altTextCta": "open"
                                         },
                                         "entityId": "swiggy://collectionV2?collection_id=83634&tags=layout_CCS_SouthIndian&search_context=southindian",
-                                        "frequencyCapping": {},
-                                        "externalMarketing": {},
-                                        "overlayIcon": {},
-                                        "footerOverlay": {
-                                            "title": {},
-                                            "subtitle": {},
-                                            "cta": {}
-                                        }
-                                    },
-                                    {
-                                        "id": "750581",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/05a939eb-fd4e-4308-b989-d1c54f4421b3_northindian1.png",
-                                        "action": {
-                                            "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
-                                            "text": "North Indian",
-                                            "type": "WEBLINK"
-                                        },
-                                        "entityType": "BANNER",
-                                        "accessibility": {
-                                            "altText": "restaurants curated for north indian",
-                                            "altTextCta": "open"
-                                        },
-                                        "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
-                                        "frequencyCapping": {},
-                                        "externalMarketing": {},
-                                        "overlayIcon": {},
-                                        "footerOverlay": {
-                                            "title": {},
-                                            "subtitle": {},
-                                            "cta": {}
-                                        }
-                                    },
-                                    {
-                                        "id": "750587",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
-                                        "action": {
-                                            "link": "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
-                                            "text": "Chinese",
-                                            "type": "WEBLINK"
-                                        },
-                                        "entityType": "BANNER",
-                                        "accessibility": {
-                                            "altText": "restaurant curated for chinese",
-                                            "altTextCta": "open"
-                                        },
-                                        "entityId": "swiggy://collectionV2?collection_id=83636&tags=layout_CCS_Chinese",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -649,19 +581,19 @@ let resData = {
                                         }
                                     },
                                     {
-                                        "id": "750204",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Parotta.png",
+                                        "id": "750591",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
                                         "action": {
-                                            "link": "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
-                                            "text": "Parotta",
+                                            "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+                                            "text": "Biryani",
                                             "type": "WEBLINK"
                                         },
                                         "entityType": "BANNER",
                                         "accessibility": {
-                                            "altText": "restaurant curated for parotta",
+                                            "altText": "restaurants curated for biryani",
                                             "altTextCta": "open"
                                         },
-                                        "entityId": "80477",
+                                        "entityId": "swiggy://collectionV2?collection_id=83639&tags=layout_CCS_Biryani&search_context=biryani",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -695,42 +627,19 @@ let resData = {
                                         }
                                     },
                                     {
-                                        "id": "750596",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
+                                        "id": "750204",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Parotta.png",
                                         "action": {
-                                            "link": "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
-                                            "text": "Ice Cream",
+                                            "link": "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
+                                            "text": "Parotta",
                                             "type": "WEBLINK"
                                         },
                                         "entityType": "BANNER",
                                         "accessibility": {
-                                            "altText": "restaurants curated for icecream",
+                                            "altText": "restaurant curated for parotta",
                                             "altTextCta": "open"
                                         },
-                                        "entityId": "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
-                                        "frequencyCapping": {},
-                                        "externalMarketing": {},
-                                        "overlayIcon": {},
-                                        "footerOverlay": {
-                                            "title": {},
-                                            "subtitle": {},
-                                            "cta": {}
-                                        }
-                                    },
-                                    {
-                                        "id": "750589",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
-                                        "action": {
-                                            "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
-                                            "text": "Burgers",
-                                            "type": "WEBLINK"
-                                        },
-                                        "entityType": "BANNER",
-                                        "accessibility": {
-                                            "altText": "restaurants curated for burger",
-                                            "altTextCta": "open"
-                                        },
-                                        "entityId": "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger&search_context=burger",
+                                        "entityId": "80477",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -787,19 +696,19 @@ let resData = {
                                         }
                                     },
                                     {
-                                        "id": "745861",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Shake.png",
+                                        "id": "750587",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
                                         "action": {
-                                            "link": "https://www.swiggy.com/collections/83673?collection_id=83673&tags=layout_CCS_Shakes&type=rcv2",
-                                            "text": "Shake",
+                                            "link": "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
+                                            "text": "Chinese",
                                             "type": "WEBLINK"
                                         },
                                         "entityType": "BANNER",
                                         "accessibility": {
-                                            "altText": "restaurants curated for shakes",
+                                            "altText": "restaurant curated for chinese",
                                             "altTextCta": "open"
                                         },
-                                        "entityId": "swiggy://collectionV2?collection_id=83673&tags=layout_CCS_Shakes",
+                                        "entityId": "swiggy://collectionV2?collection_id=83636&tags=layout_CCS_Chinese",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -810,42 +719,19 @@ let resData = {
                                         }
                                     },
                                     {
-                                        "id": "749772",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+                                        "id": "750589",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
                                         "action": {
-                                            "link": "https://www.swiggy.com/collections/80463?collection_id=80463&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
-                                            "text": "Noodles",
+                                            "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
+                                            "text": "Burgers",
                                             "type": "WEBLINK"
                                         },
                                         "entityType": "BANNER",
                                         "accessibility": {
-                                            "altText": "restaurant curated for noodles",
+                                            "altText": "restaurants curated for burger",
                                             "altTextCta": "open"
                                         },
-                                        "entityId": "80463",
-                                        "frequencyCapping": {},
-                                        "externalMarketing": {},
-                                        "overlayIcon": {},
-                                        "footerOverlay": {
-                                            "title": {},
-                                            "subtitle": {},
-                                            "cta": {}
-                                        }
-                                    },
-                                    {
-                                        "id": "750561",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/2/4/9a22cf0d-f44c-4345-a48d-29033aa19729_Vada.png",
-                                        "action": {
-                                            "link": "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
-                                            "text": "Vada",
-                                            "type": "WEBLINK"
-                                        },
-                                        "entityType": "BANNER",
-                                        "accessibility": {
-                                            "altText": "restaurants curated for vada",
-                                            "altTextCta": "open"
-                                        },
-                                        "entityId": "80425",
+                                        "entityId": "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger&search_context=burger",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -879,19 +765,19 @@ let resData = {
                                         }
                                     },
                                     {
-                                        "id": "750225",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/186ebf5c-d9ad-4d2b-a2b0-77795e19241f_Salad2.png",
+                                        "id": "750637",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Orange juice.png",
                                         "action": {
-                                            "link": "https://www.swiggy.com/collections/80394?collection_id=80394&tags=layout_CCS_Salad&type=rcv2",
-                                            "text": "Salad",
+                                            "link": "https://www.swiggy.com/collections/80445?collection_id=80445&tags=layout_Juices_Contextual&type=rcv2",
+                                            "text": "Juice",
                                             "type": "WEBLINK"
                                         },
                                         "entityType": "BANNER",
                                         "accessibility": {
-                                            "altText": "restaurant curated for salad",
+                                            "altText": "restaurants curated for juice",
                                             "altTextCta": "open"
                                         },
-                                        "entityId": "swiggy://collectionV2?collection_id=80394&tags=layout_CCS_Salad",
+                                        "entityId": "swiggy://collectionV2?collection_id=80445&tags=layout_Juices_Contextual",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -925,19 +811,111 @@ let resData = {
                                         }
                                     },
                                     {
-                                        "id": "750201",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
+                                        "id": "750252",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
                                         "action": {
-                                            "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
-                                            "text": "Paratha",
+                                            "link": "https://www.swiggy.com/collections/80406?collection_id=80406&tags=layout_CCS_Tea&type=rcv2",
+                                            "text": "Tea",
                                             "type": "WEBLINK"
                                         },
                                         "entityType": "BANNER",
                                         "accessibility": {
-                                            "altText": "restaurants curated for paratha",
+                                            "altText": "restaurants curated for tea",
                                             "altTextCta": "open"
                                         },
-                                        "entityId": "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
+                                        "entityId": "swiggy://collectionV2?collection_id=80406&tags=layout_CCS_Tea",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "overlayIcon": {},
+                                        "footerOverlay": {
+                                            "title": {},
+                                            "subtitle": {},
+                                            "cta": {}
+                                        }
+                                    },
+                                    {
+                                        "id": "749768",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Momos.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/80461?collection_id=80461&tags=layout_CCS_Momos&type=rcv2",
+                                            "text": "Momos",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurant curated for momos",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "swiggy://collectionV2?collection_id=80461&tags=layout_CCS_Momos",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "overlayIcon": {},
+                                        "footerOverlay": {
+                                            "title": {},
+                                            "subtitle": {},
+                                            "cta": {}
+                                        }
+                                    },
+                                    {
+                                        "id": "749772",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/80463?collection_id=80463&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
+                                            "text": "Noodles",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurant curated for noodles",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "80463",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "overlayIcon": {},
+                                        "footerOverlay": {
+                                            "title": {},
+                                            "subtitle": {},
+                                            "cta": {}
+                                        }
+                                    },
+                                    {
+                                        "id": "750643",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Idli.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/80440?collection_id=80440&tags=layout_CCS_Idli&type=rcv2",
+                                            "text": "Idli",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurants curated for idly",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "swiggy://collectionV2?collection_id=80440&tags=layout_CCS_Idli",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "overlayIcon": {},
+                                        "footerOverlay": {
+                                            "title": {},
+                                            "subtitle": {},
+                                            "cta": {}
+                                        }
+                                    },
+                                    {
+                                        "id": "750561",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2025/2/4/9a22cf0d-f44c-4345-a48d-29033aa19729_Vada.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
+                                            "text": "Vada",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurants curated for vada",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "80425",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -971,19 +949,42 @@ let resData = {
                                         }
                                     },
                                     {
-                                        "id": "750206",
-                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
+                                        "id": "745861",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Shake.png",
                                         "action": {
-                                            "link": "https://www.swiggy.com/collections/80479?collection_id=80479&search_context=pasta&tags=layout_CCS_Pasta&type=rcv2",
-                                            "text": "Pasta",
+                                            "link": "https://www.swiggy.com/collections/83673?collection_id=83673&tags=layout_CCS_Shakes&type=rcv2",
+                                            "text": "Shake",
                                             "type": "WEBLINK"
                                         },
                                         "entityType": "BANNER",
                                         "accessibility": {
-                                            "altText": "restaurant curated for pasta",
+                                            "altText": "restaurants curated for shakes",
                                             "altTextCta": "open"
                                         },
-                                        "entityId": "swiggy://collectionV2?collection_id=80479&tags=layout_CCS_Pasta&search_context=pasta",
+                                        "entityId": "swiggy://collectionV2?collection_id=83673&tags=layout_CCS_Shakes",
+                                        "frequencyCapping": {},
+                                        "externalMarketing": {},
+                                        "overlayIcon": {},
+                                        "footerOverlay": {
+                                            "title": {},
+                                            "subtitle": {},
+                                            "cta": {}
+                                        }
+                                    },
+                                    {
+                                        "id": "750131",
+                                        "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
+                                        "action": {
+                                            "link": "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
+                                            "text": "Dosa",
+                                            "type": "WEBLINK"
+                                        },
+                                        "entityType": "BANNER",
+                                        "accessibility": {
+                                            "altText": "restaurants curated for dosa",
+                                            "altTextCta": "open"
+                                        },
+                                        "entityId": "swiggy://collectionV2?collection_id=80424&tags=layout_CCS_Dosa",
                                         "frequencyCapping": {},
                                         "externalMarketing": {},
                                         "overlayIcon": {},
@@ -1081,17 +1082,17 @@ let resData = {
                                             "avgRating": 4.3,
                                             "parentId": "721",
                                             "avgRatingString": "4.3",
-                                            "totalRatingsString": "5.7K+",
+                                            "totalRatingsString": "5.8K+",
                                             "sla": {
-                                                "deliveryTime": 28,
+                                                "deliveryTime": 38,
                                                 "lastMileTravel": 3,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
+                                                "slaString": "35-40 mins",
                                                 "lastMileTravelString": "3.0 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-14 01:00:00",
+                                                "nextCloseTime": "2026-04-25 01:00:00",
                                                 "opened": true
                                             },
                                             "badges": {
@@ -1103,7 +1104,6 @@ let resData = {
                                                 ]
                                             },
                                             "isOpen": true,
-                                            "aggregatedDiscountInfoV2": {},
                                             "type": "F",
                                             "badgesV2": {
                                                 "entityBadges": {
@@ -1121,6 +1121,9 @@ let resData = {
                                                     "textBased": {},
                                                     "textExtendedBadges": {}
                                                 }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "FREE ITEM"
                                             },
                                             "differentiatedUi": {
                                                 "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1143,10 +1146,618 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
                                             "link": "https://www.swiggy.com/city/coimbatore/pizza-hut-avinash-road-peelamedu-rest492041",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "604273",
+                                            "name": "Chinese Wok",
+                                            "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
+                                            "locality": "Gowtham Complex",
+                                            "areaName": "Sivanadha Colony",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Chinese",
+                                                "Asian",
+                                                "Tibetan",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "parentId": "61955",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "5.2K+",
+                                            "sla": {
+                                                "deliveryTime": 38,
+                                                "lastMileTravel": 3.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "35-45 mins",
+                                                "lastMileTravelString": "3.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-25 02:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "brand_cards/Badges%202026/46_Best%20in%20Chinese2026.png",
+                                                        "description": "Best in Chinese"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Best in Chinese",
+                                                                    "imageId": "brand_cards/Badges%202026/46_Best%20in%20Chinese2026.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹148"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/chinese-wok-gowtham-complex-sivanadha-colony-rest604273",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "60958",
+                                            "name": "Denmarrk Restaurant",
+                                            "cloudinaryImageId": "kotlytcyvkm5c5sl86mk",
+                                            "locality": "Ganapathy",
+                                            "areaName": "Ganapathy",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Biryani",
+                                                "South Indian",
+                                                "Chinese",
+                                                "Rolls & Wraps",
+                                                "Tandoor"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "parentId": "598516",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "25K+",
+                                            "sla": {
+                                                "deliveryTime": 34,
+                                                "lastMileTravel": 2.1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.1 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "60% OFF",
+                                                "subHeader": "UPTO ₹120"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.3",
+                                                    "ratingCount": "6.4K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/denmarrk-restaurant-ganapathy-rest60958",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "53332",
+                                            "name": "Sree Aksshayam",
+                                            "cloudinaryImageId": "bc2eb057b8474efce6932bb4335d950e",
+                                            "locality": "Peelamedu",
+                                            "areaName": "Peelamedu",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "South Indian",
+                                                "Biryani",
+                                                "Chaat",
+                                                "Snacks",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.6,
+                                            "veg": true,
+                                            "parentId": "671577",
+                                            "avgRatingString": "4.6",
+                                            "totalRatingsString": "99K+",
+                                            "sla": {
+                                                "deliveryTime": 33,
+                                                "lastMileTravel": 2.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 22:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "aggregatedDiscountInfoV2": {},
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.1",
+                                                    "ratingCount": "12K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/sree-aksshayam-peelamedu-rest53332",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "707835",
+                                            "name": "Amote Patisserie",
+                                            "cloudinaryImageId": "92adaa33bff5ad86325d760d822f787d",
+                                            "locality": "Avinashi road",
+                                            "areaName": "Nava India",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Desserts",
+                                                "Bakery",
+                                                "Ice Cream Cakes",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.7,
+                                            "parentId": "348047",
+                                            "avgRatingString": "4.7",
+                                            "totalRatingsString": "1.4K+",
+                                            "sla": {
+                                                "deliveryTime": 31,
+                                                "lastMileTravel": 2.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "newg.png",
+                                                        "description": "Gourmet"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Gourmet",
+                                                                    "imageId": "newg.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹89"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.6",
+                                                    "ratingCount": "183"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/amote-patisserie-avinashi-road-nava-india-rest707835",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "722815",
+                                            "name": "FNP Cakes By Ferns N Petals",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/12/ec024e99-79ef-4996-8d81-d156f8e17987_722815.jpg",
+                                            "locality": "Sai Baba Colony",
+                                            "areaName": "PARK ROAD1",
+                                            "costForTwo": "₹499 for two",
+                                            "cuisines": [
+                                                "Desserts",
+                                                "Bakery",
+                                                "Sweets",
+                                                "Ice Cream",
+                                                "Beverages",
+                                                "North Indian",
+                                                "Chinese"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "veg": true,
+                                            "parentId": "339638",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "822",
+                                            "sla": {
+                                                "deliveryTime": 35,
+                                                "lastMileTravel": 2.5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "35-40 mins",
+                                                "lastMileTravelString": "2.5 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 20:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹100 OFF",
+                                                "subHeader": "ABOVE ₹499",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/fnp-cakes-by-ferns-n-petals-sai-baba-colony-park-road1-rest722815",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "403835",
+                                            "name": "Grameen Kulfi",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/11/17/6c47d058-77a7-44f6-a5c4-a6e4e3ab1671_403835.JPG",
+                                            "locality": "Mecricar Road",
+                                            "areaName": "RS Puram",
+                                            "costForTwo": "₹120 for two",
+                                            "cuisines": [
+                                                "Ice Cream",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.8,
+                                            "veg": true,
+                                            "parentId": "12175",
+                                            "avgRatingString": "4.8",
+                                            "totalRatingsString": "707",
+                                            "sla": {
+                                                "deliveryTime": 38,
+                                                "lastMileTravel": 3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "35-40 mins",
+                                                "lastMileTravelString": "3.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹49"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/grameen-kulfi-mecricar-road-rs-puram-rest403835",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "379905",
+                                            "name": "Baskin Robbins - Ice Cream Desserts",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/85a90fe4-cdf3-4c36-84ed-1d12219157c1_379905.JPG",
+                                            "locality": "Sir Shanmugam Road",
+                                            "areaName": "RS Puram",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Desserts",
+                                                "Ice Cream"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "veg": true,
+                                            "parentId": "5588",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "879",
+                                            "sla": {
+                                                "deliveryTime": 34,
+                                                "lastMileTravel": 2.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "brand_cards/Badges%202026/56_Best%20in%20Ice%20Cream2026.png",
+                                                        "description": "Best in Ice Cream"
+                                                    },
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Best in Ice Cream",
+                                                                    "imageId": "brand_cards/Badges%202026/56_Best%20in%20Ice%20Cream2026.png",
+                                                                    "theme": ""
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹51"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/baskin-robbins-ice-cream-desserts-sir-shanmugam-road-rs-puram-rest379905",
                                             "type": "WEBLINK"
                                         }
                                     },
@@ -1168,15 +1779,15 @@ let resData = {
                                             "avgRatingString": "4.3",
                                             "totalRatingsString": "20K+",
                                             "sla": {
-                                                "deliveryTime": 20,
+                                                "deliveryTime": 37,
                                                 "lastMileTravel": 3,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "20-25 mins",
+                                                "slaString": "35-45 mins",
                                                 "lastMileTravelString": "3.0 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-14 02:00:00",
+                                                "nextCloseTime": "2026-04-25 02:00:00",
                                                 "opened": true
                                             },
                                             "badges": {
@@ -1253,7 +1864,7 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
                                             "link": "https://www.swiggy.com/city/coimbatore/kfc-peelamedu-rest50793",
@@ -1262,958 +1873,30 @@ let resData = {
                                     },
                                     {
                                         "info": {
-                                            "id": "604273",
-                                            "name": "Chinese Wok",
-                                            "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
-                                            "locality": "Gowtham Complex",
-                                            "areaName": "Sivanadha Colony",
-                                            "costForTwo": "₹250 for two",
-                                            "cuisines": [
-                                                "Chinese",
-                                                "Asian",
-                                                "Tibetan",
-                                                "Desserts"
-                                            ],
-                                            "avgRating": 4.4,
-                                            "parentId": "61955",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "5.2K+",
-                                            "sla": {
-                                                "deliveryTime": 30,
-                                                "lastMileTravel": 4.2,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "30-35 mins",
-                                                "lastMileTravelString": "4.2 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-14 02:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {
-                                                "imageBadges": [
-                                                    {
-                                                        "imageId": "brand_cards/Badges%202026/46_Best%20in%20Chinese2026.png",
-                                                        "description": "Best in Chinese"
-                                                    }
-                                                ]
-                                            },
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {
-                                                        "badgeObject": [
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "Best in Chinese",
-                                                                    "imageId": "brand_cards/Badges%202026/46_Best%20in%20Chinese2026.png",
-                                                                    "theme": ""
-                                                                }
-                                                            }
-                                                        ]
-                                                    },
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹149"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/chinese-wok-gowtham-complex-sivanadha-colony-rest604273",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "604228",
-                                            "name": "Big Bowl",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/22/deff0d02-ca1d-4ef9-9d62-b0cbeabf33d3_604228.JPG",
-                                            "locality": "P&T Colony Road",
-                                            "areaName": "Sivanadha Colony",
-                                            "costForTwo": "₹250 for two",
-                                            "cuisines": [
-                                                "Chinese",
-                                                "Tibetan",
-                                                "Desserts"
-                                            ],
-                                            "avgRating": 4.4,
-                                            "parentId": "434792",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "3.3K+",
-                                            "sla": {
-                                                "deliveryTime": 29,
-                                                "lastMileTravel": 4.2,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "4.2 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-14 02:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹139"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/big-bowl-p-and-t-colony-road-sivanadha-colony-rest604228",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "82488",
-                                            "name": "The Belgian Waffle Co.",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/17/60c33ca4-4a0c-4c2e-aa32-7d67a5925d54_82488.JPG",
-                                            "locality": "Avinashi Road",
-                                            "areaName": "Peelamedu",
-                                            "costForTwo": "₹200 for two",
-                                            "cuisines": [
-                                                "Waffle",
-                                                "Desserts",
-                                                "Ice Cream",
-                                                "Beverages"
-                                            ],
-                                            "avgRating": 4.7,
-                                            "veg": true,
-                                            "parentId": "2233",
-                                            "avgRatingString": "4.7",
-                                            "totalRatingsString": "10K+",
-                                            "sla": {
-                                                "deliveryTime": 41,
-                                                "lastMileTravel": 5.9,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "40-45 mins",
-                                                "lastMileTravelString": "5.9 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 23:59:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "30% OFF",
-                                                "subHeader": "UPTO ₹75"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "3.8",
-                                                    "ratingCount": "603"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/the-belgian-waffle-co-avinashi-road-peelamedu-rest82488",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "53332",
-                                            "name": "Sree Aksshayam",
-                                            "cloudinaryImageId": "bc2eb057b8474efce6932bb4335d950e",
-                                            "locality": "Peelamedu",
-                                            "areaName": "Peelamedu",
-                                            "costForTwo": "₹200 for two",
-                                            "cuisines": [
-                                                "South Indian",
-                                                "Biryani",
-                                                "Chaat",
-                                                "Snacks",
-                                                "Beverages"
-                                            ],
-                                            "avgRating": 4.6,
-                                            "veg": true,
-                                            "parentId": "671577",
-                                            "avgRatingString": "4.6",
-                                            "totalRatingsString": "99K+",
-                                            "sla": {
-                                                "deliveryTime": 20,
-                                                "lastMileTravel": 2.7,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "15-20 mins",
-                                                "lastMileTravelString": "2.7 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 22:30:00",
-                                                "opened": true
-                                            },
-                                            "badges": {
-                                                "imageBadges": [
-                                                    {
-                                                        "imageId": "android/static-assets/icons/big_rx.png",
-                                                        "description": "bolt!"
-                                                    },
-                                                    {
-                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
-                                                        "description": "pureveg"
-                                                    }
-                                                ]
-                                            },
-                                            "isOpen": true,
-                                            "aggregatedDiscountInfoV2": {},
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {
-                                                        "badgeObject": [
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "bolt!",
-                                                                    "imageId": "android/static-assets/icons/big_rx.png"
-                                                                }
-                                                            },
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "pureveg",
-                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png",
-                                                                    "theme": ""
-                                                                }
-                                                            }
-                                                        ]
-                                                    },
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "4.1",
-                                                    "ratingCount": "12K+"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/sree-aksshayam-peelamedu-rest53332",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "385409",
-                                            "name": "Dindigul Venu Biriyani",
-                                            "cloudinaryImageId": "zjlp8z2tdg6dgify5fhd",
-                                            "locality": "PN Palayam",
-                                            "areaName": "Lakshmi Mills",
-                                            "costForTwo": "₹300 for two",
-                                            "cuisines": [
-                                                "Biryani",
-                                                "South Indian",
-                                                "Indian"
-                                            ],
-                                            "avgRating": 4.4,
-                                            "parentId": "244844",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "3.6K+",
-                                            "sla": {
-                                                "deliveryTime": 28,
-                                                "lastMileTravel": 3,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "3.0 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 17:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹19"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "3.7",
-                                                    "ratingCount": "4.5K+"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/dindigul-venu-biriyani-pn-palayam-lakshmi-mills-rest385409",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "50261",
-                                            "name": "HMR Hotel",
-                                            "cloudinaryImageId": "ngrkti6g5uh6adiwr37o",
-                                            "locality": "RS Puram",
-                                            "areaName": "RS Puram",
-                                            "costForTwo": "₹300 for two",
-                                            "cuisines": [
-                                                "Biryani",
-                                                "South Indian",
-                                                "Chinese",
-                                                "Indian",
-                                                "North Indian"
-                                            ],
-                                            "avgRating": 4.4,
-                                            "parentId": "96264",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "86K+",
-                                            "sla": {
-                                                "deliveryTime": 35,
-                                                "lastMileTravel": 3.8,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "30-40 mins",
-                                                "lastMileTravelString": "3.8 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 23:30:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "40% OFF",
-                                                "subHeader": "UPTO ₹80"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "4.1",
-                                                    "ratingCount": "8.6K+"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/hmr-hotel-rs-puram-rest50261",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "639425",
-                                            "name": "Dum Safar Biryani",
-                                            "cloudinaryImageId": "47eee43e59a6d49b0f6d9a2b0e523f47",
-                                            "locality": "Raja Street",
-                                            "areaName": "Town Hall",
-                                            "costForTwo": "₹500 for two",
-                                            "cuisines": [
-                                                "Biryani",
-                                                "Hyderabadi",
-                                                "Kebabs",
-                                                "North Indian",
-                                                "barbeque"
-                                            ],
-                                            "avgRating": 4,
-                                            "parentId": "351013",
-                                            "avgRatingString": "4.0",
-                                            "totalRatingsString": "955",
-                                            "sla": {
-                                                "deliveryTime": 39,
-                                                "lastMileTravel": 5.5,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "35-45 mins",
-                                                "lastMileTravelString": "5.5 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 23:30:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "60% OFF",
-                                                "subHeader": "UPTO ₹120"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/dum-safar-biryani-raja-street-town-hall-rest639425",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "61498",
-                                            "name": "Geetha Canteen",
-                                            "cloudinaryImageId": "d307f820c640fc02dd6242a358e69a79",
-                                            "locality": "Gandhipuram",
-                                            "areaName": "Gandhipuram",
-                                            "costForTwo": "₹100 for two",
-                                            "cuisines": [
-                                                "South Indian",
-                                                "Indian",
-                                                "Chinese"
-                                            ],
-                                            "avgRating": 4.6,
-                                            "veg": true,
-                                            "parentId": "6459",
-                                            "avgRatingString": "4.6",
-                                            "totalRatingsString": "110K+",
-                                            "sla": {
-                                                "deliveryTime": 23,
-                                                "lastMileTravel": 2,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "20-25 mins",
-                                                "lastMileTravelString": "2.0 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 16:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {
-                                                "imageBadges": [
-                                                    {
-                                                        "imageId": "android/static-assets/icons/big_rx.png",
-                                                        "description": "bolt!"
-                                                    }
-                                                ]
-                                            },
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {
-                                                        "badgeObject": [
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "bolt!",
-                                                                    "imageId": "android/static-assets/icons/big_rx.png"
-                                                                }
-                                                            }
-                                                        ]
-                                                    },
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "30% OFF",
-                                                "subHeader": "UPTO ₹75"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "4.3",
-                                                    "ratingCount": "8.4K+"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/geetha-canteen-gandhipuram-rest61498",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "902638",
-                                            "name": "Cream Centre- Vegetarian Legacy Since 1958",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/9/f8d16d83-72ed-4711-94ce-bc1f36cb6b9d_902638.JPG",
-                                            "locality": "ThirugnanasambandarRoad",
-                                            "areaName": "Race Course",
-                                            "costForTwo": "₹1200 for two",
-                                            "cuisines": [
-                                                "North Indian",
-                                                "Chinese",
-                                                "Italian",
-                                                "Mexican",
-                                                "Desserts",
-                                                "Shakes",
-                                                "Beverages"
-                                            ],
-                                            "avgRating": 4.6,
-                                            "veg": true,
-                                            "parentId": "600673",
-                                            "avgRatingString": "4.6",
-                                            "totalRatingsString": "545",
-                                            "sla": {
-                                                "deliveryTime": 33,
-                                                "lastMileTravel": 3,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "30-35 mins",
-                                                "lastMileTravelString": "3.0 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 15:30:00",
-                                                "opened": true
-                                            },
-                                            "badges": {
-                                                "imageBadges": [
-                                                    {
-                                                        "imageId": "newg.png",
-                                                        "description": "Gourmet"
-                                                    }
-                                                ]
-                                            },
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {
-                                                        "badgeObject": [
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "Gourmet",
-                                                                    "imageId": "newg.png",
-                                                                    "theme": ""
-                                                                }
-                                                            }
-                                                        ]
-                                                    },
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "₹100 OFF",
-                                                "subHeader": "ABOVE ₹199",
-                                                "discountTag": "FLAT DEAL"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/cream-centre-vegetarian-legacy-since-1958-thirugnanasambandarroad-race-course-rest902638",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "707835",
-                                            "name": "Amote Patisserie",
-                                            "cloudinaryImageId": "92adaa33bff5ad86325d760d822f787d",
-                                            "locality": "Avinashi road",
-                                            "areaName": "Nava India",
-                                            "costForTwo": "₹250 for two",
-                                            "cuisines": [
-                                                "Desserts",
-                                                "Bakery",
-                                                "Ice Cream Cakes",
-                                                "Beverages"
-                                            ],
-                                            "avgRating": 4.7,
-                                            "parentId": "348047",
-                                            "avgRatingString": "4.7",
-                                            "totalRatingsString": "1.3K+",
-                                            "sla": {
-                                                "deliveryTime": 14,
-                                                "lastMileTravel": 2.7,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "10-15 mins",
-                                                "lastMileTravelString": "2.7 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 23:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {
-                                                "imageBadges": [
-                                                    {
-                                                        "imageId": "android/static-assets/icons/big_rx.png",
-                                                        "description": "bolt!"
-                                                    },
-                                                    {
-                                                        "imageId": "newg.png",
-                                                        "description": "Gourmet"
-                                                    }
-                                                ]
-                                            },
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {
-                                                        "badgeObject": [
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "bolt!",
-                                                                    "imageId": "android/static-assets/icons/big_rx.png"
-                                                                }
-                                                            },
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "Gourmet",
-                                                                    "imageId": "newg.png",
-                                                                    "theme": ""
-                                                                }
-                                                            }
-                                                        ]
-                                                    },
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "40% OFF",
-                                                "subHeader": "UPTO ₹80"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "4.6",
-                                                    "ratingCount": "183"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/amote-patisserie-avinashi-road-nava-india-rest707835",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "51014",
-                                            "name": "A2B - Adyar Ananda Bhavan",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/7/02ddccce-cb0e-450e-aca1-c14df7c4289b_51014.JPG",
-                                            "locality": "Gandhipuram",
-                                            "areaName": "Gandhipuram",
-                                            "costForTwo": "₹300 for two",
-                                            "cuisines": [
-                                                "South Indian",
-                                                "North Indian",
-                                                "Sweets",
-                                                "Chinese"
-                                            ],
-                                            "avgRating": 4.6,
-                                            "veg": true,
-                                            "parentId": "22",
-                                            "avgRatingString": "4.6",
-                                            "totalRatingsString": "46K+",
-                                            "sla": {
-                                                "deliveryTime": 29,
-                                                "lastMileTravel": 1.6,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "1.6 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 22:30:00",
-                                                "opened": true
-                                            },
-                                            "badges": {
-                                                "imageBadges": [
-                                                    {
-                                                        "imageId": "android/static-assets/icons/big_rx.png",
-                                                        "description": "bolt!"
-                                                    },
-                                                    {
-                                                        "imageId": "brand_cards/Badges%202026/102_Best%20in%20South%20Indian%20Veg2026.png",
-                                                        "description": "Best in South Indian Veg"
-                                                    },
-                                                    {
-                                                        "imageId": "brand_cards/Badges%202026/103_Best%20in%20Sweets%20&%20Savouries2026.png",
-                                                        "description": "Best in Sweets & Savouries"
-                                                    }
-                                                ]
-                                            },
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {
-                                                        "badgeObject": [
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "bolt!",
-                                                                    "imageId": "android/static-assets/icons/big_rx.png"
-                                                                }
-                                                            },
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "Best in South Indian Veg",
-                                                                    "imageId": "brand_cards/Badges%202026/102_Best%20in%20South%20Indian%20Veg2026.png",
-                                                                    "theme": ""
-                                                                }
-                                                            },
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "Best in Sweets & Savouries",
-                                                                    "imageId": "brand_cards/Badges%202026/103_Best%20in%20Sweets%20&%20Savouries2026.png",
-                                                                    "theme": ""
-                                                                }
-                                                            }
-                                                        ]
-                                                    },
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹90"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "3.9",
-                                                    "ratingCount": "11K+"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/a2b-adyar-ananda-bhavan-gandhipuram-rest51014",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "50456",
+                                            "id": "50457",
                                             "name": "Burger King",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/f73fffdc-9c14-42ed-8477-9a17eccb400a_50456.jpg",
-                                            "locality": "RS Puram",
-                                            "areaName": "Ram Nagar",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/fb5e293d-4dc6-45a2-9c77-36e2b16f7e6c_50457.jpg",
+                                            "locality": "Prozone Mall",
+                                            "areaName": "Saravanampatti",
                                             "costForTwo": "₹350 for two",
                                             "cuisines": [
                                                 "Burgers",
                                                 "American"
                                             ],
-                                            "avgRating": 4.4,
+                                            "avgRating": 4.3,
                                             "parentId": "166",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "35K+",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "24K+",
                                             "sla": {
-                                                "deliveryTime": 33,
-                                                "lastMileTravel": 4.2,
+                                                "deliveryTime": 49,
+                                                "lastMileTravel": 6.2,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "30-40 mins",
-                                                "lastMileTravelString": "4.2 km",
+                                                "slaString": "45-55 mins",
+                                                "lastMileTravelString": "6.2 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-14 01:00:00",
+                                                "nextCloseTime": "2026-04-25 00:00:00",
                                                 "opened": true
                                             },
                                             "badges": {
@@ -2259,8 +1942,347 @@ let resData = {
                                             "restaurantOfferPresentationInfo": {},
                                             "externalRatings": {
                                                 "aggregatedRating": {
-                                                    "rating": "4.3",
-                                                    "ratingCount": "2.3K+"
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/burger-king-prozone-mall-saravanampatti-rest50457",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "56506",
+                                            "name": "McDonald's",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/10/3/81c66cb4-f134-4f26-be71-8109b0a5f6d1_56506.JPG",
+                                            "locality": "Fun Republic Mall",
+                                            "areaName": "Avinashi Road",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Burgers",
+                                                "Beverages",
+                                                "Cafe",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "parentId": "630",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "31K+",
+                                            "sla": {
+                                                "deliveryTime": 46,
+                                                "lastMileTravel": 5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "45-55 mins",
+                                                "lastMileTravelString": "5.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "brand_cards/Badges%202026/41_Best%20in%20Burger2026.png",
+                                                        "description": "Best in Burger"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Best in Burger",
+                                                                    "imageId": "brand_cards/Badges%202026/41_Best%20in%20Burger2026.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹549",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/mcdonalds-fun-republic-mall-avinashi-road-rest56506",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "306332",
+                                            "name": "NIC Ice Creams",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/22/e274400f-194c-4f81-b6cb-0bb616227e70_306332.JPG",
+                                            "locality": "Aavarampalayam Road",
+                                            "areaName": "Peelamedu",
+                                            "costForTwo": "₹120 for two",
+                                            "cuisines": [
+                                                "Ice Cream",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.7,
+                                            "veg": true,
+                                            "parentId": "6249",
+                                            "avgRatingString": "4.7",
+                                            "totalRatingsString": "6.8K+",
+                                            "sla": {
+                                                "deliveryTime": 26,
+                                                "lastMileTravel": 3.5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "3.5 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹75"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/nic-ice-creams-aavarampalayam-road-peelamedu-rest306332",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "56070",
+                                            "name": "Sree Annapoorna",
+                                            "cloudinaryImageId": "hcezbyzjetnxbcjlprw8",
+                                            "locality": "Mettupalayam Road",
+                                            "areaName": "Vadacovai",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "South Indian",
+                                                "Indian",
+                                                "North Indian",
+                                                "Chinese",
+                                                "Beverages",
+                                                "Juices"
+                                            ],
+                                            "avgRating": 4.7,
+                                            "veg": true,
+                                            "parentId": "4732",
+                                            "avgRatingString": "4.7",
+                                            "totalRatingsString": "15K+",
+                                            "sla": {
+                                                "deliveryTime": 33,
+                                                "lastMileTravel": 2.4,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.4 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 22:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "brand_cards/Badges%202026/102_Best%20in%20South%20Indian%20Veg2026.png",
+                                                        "description": "Best in South Indian Veg"
+                                                    },
+                                                    {
+                                                        "imageId": "brand_cards/Badges%202026/62_Best%20in%20Local%20Gems2026.png",
+                                                        "description": "Best in Local Gems"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "aggregatedDiscountInfoV2": {},
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Best in South Indian Veg",
+                                                                    "imageId": "brand_cards/Badges%202026/102_Best%20in%20South%20Indian%20Veg2026.png",
+                                                                    "theme": ""
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Best in Local Gems",
+                                                                    "imageId": "brand_cards/Badges%202026/62_Best%20in%20Local%20Gems2026.png",
+                                                                    "theme": ""
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/sree-annapoorna-mettupalayam-road-vadacovai-rest56070",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "50261",
+                                            "name": "HMR Hotel",
+                                            "cloudinaryImageId": "ngrkti6g5uh6adiwr37o",
+                                            "locality": "RS Puram",
+                                            "areaName": "RS Puram",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Biryani",
+                                                "South Indian",
+                                                "Chinese",
+                                                "Indian",
+                                                "North Indian"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "parentId": "96264",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "86K+",
+                                            "sla": {
+                                                "deliveryTime": 43,
+                                                "lastMileTravel": 3.8,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "40-50 mins",
+                                                "lastMileTravelString": "3.8 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "40% OFF",
+                                                "subHeader": "UPTO ₹80"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.1",
+                                                    "ratingCount": "8.6K+"
                                                 },
                                                 "source": "GOOGLE",
                                                 "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
@@ -2268,20 +2290,20 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/burger-king-rs-puram-ram-nagar-rest50456",
+                                            "link": "https://www.swiggy.com/city/coimbatore/hmr-hotel-rs-puram-rest50261",
                                             "type": "WEBLINK"
                                         }
                                     },
                                     {
                                         "info": {
-                                            "id": "614321",
+                                            "id": "587663",
                                             "name": "Subway",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/81102a79-899f-4a88-aee5-c7fa6c9f60a4_614321.jpg",
-                                            "locality": "Bharathi Park Road",
-                                            "areaName": "Saibaba Colony",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/3025a90c-f7eb-437f-9c00-63273744293b_587663.jpg",
+                                            "locality": "Peelamedu",
+                                            "areaName": "Peelamedu",
                                             "costForTwo": "₹350 for two",
                                             "cuisines": [
                                                 "sandwich",
@@ -2289,20 +2311,20 @@ let resData = {
                                                 "wrap",
                                                 "Healthy Food"
                                             ],
-                                            "avgRating": 4.5,
+                                            "avgRating": 4.3,
                                             "parentId": "2",
-                                            "avgRatingString": "4.5",
-                                            "totalRatingsString": "5.9K+",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "6.1K+",
                                             "sla": {
-                                                "deliveryTime": 24,
-                                                "lastMileTravel": 4.1,
+                                                "deliveryTime": 37,
+                                                "lastMileTravel": 3.7,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "20-25 mins",
-                                                "lastMileTravelString": "4.1 km",
+                                                "slaString": "35-40 mins",
+                                                "lastMileTravelString": "3.7 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-14 01:00:00",
+                                                "nextCloseTime": "2026-04-25 00:00:00",
                                                 "opened": true
                                             },
                                             "badges": {
@@ -2344,8 +2366,9 @@ let resData = {
                                                 }
                                             },
                                             "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹198"
+                                                "header": "₹150 OFF",
+                                                "subHeader": "ABOVE ₹299",
+                                                "discountTag": "FLAT DEAL"
                                             },
                                             "differentiatedUi": {
                                                 "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2359,16 +2382,163 @@ let resData = {
                                             "restaurantOfferPresentationInfo": {},
                                             "externalRatings": {
                                                 "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
+                                                    "rating": "4.2",
+                                                    "ratingCount": "829"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
                                             },
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/subway-bharathi-park-road-saibaba-colony-rest614321",
+                                            "link": "https://www.swiggy.com/city/coimbatore/subway-peelamedu-rest587663",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "82488",
+                                            "name": "The Belgian Waffle Co.",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/17/60c33ca4-4a0c-4c2e-aa32-7d67a5925d54_82488.JPG",
+                                            "locality": "Avinashi Road",
+                                            "areaName": "Peelamedu",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Waffle",
+                                                "Desserts",
+                                                "Ice Cream",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.7,
+                                            "veg": true,
+                                            "parentId": "2233",
+                                            "avgRatingString": "4.7",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 45,
+                                                "lastMileTravel": 4.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "40-45 mins",
+                                                "lastMileTravelString": "4.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "30% OFF",
+                                                "subHeader": "UPTO ₹75"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "3.8",
+                                                    "ratingCount": "603"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/the-belgian-waffle-co-avinashi-road-peelamedu-rest82488",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "87908",
+                                            "name": "Taco Bell",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/10/3158958d-ad72-474d-b45c-c003329a258f_87908.JPG",
+                                            "locality": "Prozone Mall",
+                                            "areaName": "Ganapathy",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Mexican",
+                                                "Fast Food",
+                                                "Snacks"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "1557",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "5.7K+",
+                                            "sla": {
+                                                "deliveryTime": 50,
+                                                "lastMileTravel": 6.2,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "50-60 mins",
+                                                "lastMileTravelString": "6.2 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-25 01:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "65% OFF",
+                                                "subHeader": "UPTO ₹125"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "3.8",
+                                                    "ratingCount": "721"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/taco-bell-prozone-mall-ganapathy-rest87908",
                                             "type": "WEBLINK"
                                         }
                                     },
@@ -2389,17 +2559,17 @@ let resData = {
                                             "veg": true,
                                             "parentId": "353249",
                                             "avgRatingString": "4.7",
-                                            "totalRatingsString": "56K+",
+                                            "totalRatingsString": "57K+",
                                             "sla": {
-                                                "deliveryTime": 32,
-                                                "lastMileTravel": 4.5,
+                                                "deliveryTime": 38,
+                                                "lastMileTravel": 3.5,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "30-35 mins",
-                                                "lastMileTravelString": "4.5 km",
+                                                "slaString": "35-40 mins",
+                                                "lastMileTravelString": "3.5 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-13 22:45:00",
+                                                "nextCloseTime": "2026-04-24 22:45:00",
                                                 "opened": true
                                             },
                                             "badges": {},
@@ -2434,7 +2604,7 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
                                             "link": "https://www.swiggy.com/city/coimbatore/nagerkovil-arya-bhavan-peelamedu-rest575570",
@@ -2443,107 +2613,46 @@ let resData = {
                                     },
                                     {
                                         "info": {
-                                            "id": "676829",
-                                            "name": "Covai ANGANAN Biriyani House- Since 1926",
-                                            "cloudinaryImageId": "375f8d233613b205ab37f42d110edc88",
-                                            "locality": "sathy road",
-                                            "areaName": "Coi Ganapathy",
-                                            "costForTwo": "₹600 for two",
+                                            "id": "51905",
+                                            "name": "Cock Ra Co",
+                                            "cloudinaryImageId": "j3htwdasf9rrgafdxtip",
+                                            "locality": "RS Puram",
+                                            "areaName": "RS Puram",
+                                            "costForTwo": "₹400 for two",
                                             "cuisines": [
                                                 "Biryani",
-                                                "Indian",
-                                                "Chinese"
-                                            ],
-                                            "avgRating": 4.3,
-                                            "parentId": "669010",
-                                            "avgRatingString": "4.3",
-                                            "totalRatingsString": "2.0K+",
-                                            "sla": {
-                                                "deliveryTime": 25,
-                                                "lastMileTravel": 4.5,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "4.5 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 23:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹39"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/covai-anganan-biriyani-house-since-1926-sathy-road-coi-ganapathy-rest676829",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "58703",
-                                            "name": "RHR Hotels",
-                                            "cloudinaryImageId": "2f42cc29f6c76d9dbe4752cc5cfc855b",
-                                            "locality": "Chetpet",
-                                            "areaName": "Race Course",
-                                            "costForTwo": "₹200 for two",
-                                            "cuisines": [
+                                                "North Indian",
                                                 "South Indian",
-                                                "Indian",
-                                                "North Indian"
+                                                "Chettinad",
+                                                "Chinese",
+                                                "Ice Cream",
+                                                "Desserts"
                                             ],
                                             "avgRating": 4.5,
-                                            "veg": true,
-                                            "parentId": "5813",
+                                            "parentId": "4851",
                                             "avgRatingString": "4.5",
-                                            "totalRatingsString": "13K+",
+                                            "totalRatingsString": "29K+",
                                             "sla": {
-                                                "deliveryTime": 28,
-                                                "lastMileTravel": 3.7,
+                                                "deliveryTime": 45,
+                                                "lastMileTravel": 3,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "3.7 km",
+                                                "slaString": "40-45 mins",
+                                                "lastMileTravelString": "3.0 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-13 22:30:00",
+                                                "nextCloseTime": "2026-04-24 23:00:00",
                                                 "opened": true
                                             },
                                             "badges": {
                                                 "imageBadges": [
                                                     {
-                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
-                                                        "description": "pureveg"
+                                                        "imageId": "brand_cards/Badges%202026/101_Best%20in%20South%20Indian%20Non%20Veg2026.png",
+                                                        "description": "Best in South Indian Non Veg"
+                                                    },
+                                                    {
+                                                        "imageId": "brand_cards/Badges%202026/84_Best%20in%20Arabic2026.png",
+                                                        "description": "Best in Arabic"
                                                     }
                                                 ]
                                             },
@@ -2555,8 +2664,15 @@ let resData = {
                                                         "badgeObject": [
                                                             {
                                                                 "attributes": {
-                                                                    "description": "pureveg",
-                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                                    "description": "Best in South Indian Non Veg",
+                                                                    "imageId": "brand_cards/Badges%202026/101_Best%20in%20South%20Indian%20Non%20Veg2026.png",
+                                                                    "theme": ""
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Best in Arabic",
+                                                                    "imageId": "brand_cards/Badges%202026/84_Best%20in%20Arabic2026.png",
                                                                     "theme": ""
                                                                 }
                                                             }
@@ -2567,8 +2683,8 @@ let resData = {
                                                 }
                                             },
                                             "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹50"
+                                                "header": "70% OFF",
+                                                "subHeader": "UPTO ₹140"
                                             },
                                             "differentiatedUi": {
                                                 "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -2582,8 +2698,8 @@ let resData = {
                                             "restaurantOfferPresentationInfo": {},
                                             "externalRatings": {
                                                 "aggregatedRating": {
-                                                    "rating": "4.1",
-                                                    "ratingCount": "36K+"
+                                                    "rating": "4.0",
+                                                    "ratingCount": "7.4K+"
                                                 },
                                                 "source": "GOOGLE",
                                                 "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
@@ -2591,115 +2707,42 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/rhr-hotels-chetpet-race-course-rest58703",
+                                            "link": "https://www.swiggy.com/city/coimbatore/cock-ra-co-rs-puram-rest51905",
                                             "type": "WEBLINK"
                                         }
                                     },
                                     {
                                         "info": {
-                                            "id": "61708",
-                                            "name": "Courtallam Border Rahmath Kadai",
-                                            "cloudinaryImageId": "ksvri73igss7uyx0srq3",
-                                            "locality": "Race Course",
-                                            "areaName": "Race Course",
-                                            "costForTwo": "₹200 for two",
+                                            "id": "67645",
+                                            "name": "Night Lion by Madhampatty Pakashala",
+                                            "cloudinaryImageId": "qgck9fzi17ljdvwboljb",
+                                            "locality": "Hopes",
+                                            "areaName": "Hopes",
+                                            "costForTwo": "₹300 for two",
                                             "cuisines": [
-                                                "South Indian",
                                                 "Biryani",
-                                                "Chinese",
-                                                "Indian",
-                                                "Fast Food",
-                                                "Snacks"
+                                                "Grill",
+                                                "Tandoor",
+                                                "South Indian",
+                                                "Rolls & Wraps"
                                             ],
-                                            "avgRating": 4.4,
-                                            "parentId": "3513",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "12K+",
+                                            "avgRating": 4.2,
+                                            "parentId": "377170",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "78K+",
                                             "sla": {
-                                                "deliveryTime": 36,
-                                                "lastMileTravel": 3.9,
+                                                "deliveryTime": 53,
+                                                "lastMileTravel": 6.4,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "35-45 mins",
-                                                "lastMileTravelString": "3.9 km",
+                                                "slaString": "50-60 mins",
+                                                "lastMileTravelString": "6.4 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-13 23:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹59"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "3.8",
-                                                    "ratingCount": "3.9K+"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/courtallam-border-rahmath-kadai-race-course-rest61708",
-                                            "type": "WEBLINK"
-                                        }
-                                    },
-                                    {
-                                        "info": {
-                                            "id": "69592",
-                                            "name": "SK Supercook",
-                                            "cloudinaryImageId": "iskv0nc46sjc0cskvjup",
-                                            "locality": "Vadavalli",
-                                            "areaName": "Vadavalli",
-                                            "costForTwo": "₹200 for two",
-                                            "cuisines": [
-                                                "Biryani",
-                                                "Chinese",
-                                                "South Indian",
-                                                "Indian"
-                                            ],
-                                            "avgRating": 4.5,
-                                            "parentId": "8364",
-                                            "avgRatingString": "4.5",
-                                            "totalRatingsString": "16K+",
-                                            "sla": {
-                                                "deliveryTime": 34,
-                                                "lastMileTravel": 6.5,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "30-40 mins",
-                                                "lastMileTravelString": "6.5 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 16:00:00",
+                                                "nextCloseTime": "2026-04-25 03:45:00",
                                                 "opened": true
                                             },
                                             "badges": {},
@@ -2725,8 +2768,8 @@ let resData = {
                                             "restaurantOfferPresentationInfo": {},
                                             "externalRatings": {
                                                 "aggregatedRating": {
-                                                    "rating": "3.8",
-                                                    "ratingCount": "1.6K+"
+                                                    "rating": "4.2",
+                                                    "ratingCount": "298"
                                                 },
                                                 "source": "GOOGLE",
                                                 "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
@@ -2734,10 +2777,10 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/sk-supercook-vadavalli-rest69592",
+                                            "link": "https://www.swiggy.com/city/coimbatore/night-lion-by-madhampatty-pakashala-hopes-rest67645",
                                             "type": "WEBLINK"
                                         }
                                     }
@@ -2800,7 +2843,7 @@ let resData = {
                                 "title": "Cost: High to Low"
                             }
                         ],
-                        "restaurantCount": 1934,
+                        "restaurantCount": 1913,
                         "widgetId": "inlineFacetFilter"
                     }
                 }
@@ -2832,17 +2875,17 @@ let resData = {
                                             "avgRating": 4.3,
                                             "parentId": "721",
                                             "avgRatingString": "4.3",
-                                            "totalRatingsString": "5.7K+",
+                                            "totalRatingsString": "5.8K+",
                                             "sla": {
-                                                "deliveryTime": 28,
+                                                "deliveryTime": 38,
                                                 "lastMileTravel": 3,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
+                                                "slaString": "35-40 mins",
                                                 "lastMileTravelString": "3.0 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-14 01:00:00",
+                                                "nextCloseTime": "2026-04-25 01:00:00",
                                                 "opened": true
                                             },
                                             "badges": {
@@ -2854,7 +2897,6 @@ let resData = {
                                                 ]
                                             },
                                             "isOpen": true,
-                                            "aggregatedDiscountInfoV2": {},
                                             "type": "F",
                                             "badgesV2": {
                                                 "entityBadges": {
@@ -2872,6 +2914,9 @@ let resData = {
                                                     "textBased": {},
                                                     "textExtendedBadges": {}
                                                 }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "FREE ITEM"
                                             },
                                             "orderabilityCommunication": {
                                                 "title": {},
@@ -2901,7 +2946,7 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
                                             "link": "https://www.swiggy.com/city/coimbatore/pizza-hut-avinash-road-peelamedu-rest492041",
@@ -2930,15 +2975,15 @@ let resData = {
                                             "avgRatingString": "4.4",
                                             "totalRatingsString": "5.2K+",
                                             "sla": {
-                                                "deliveryTime": 30,
-                                                "lastMileTravel": 4.2,
+                                                "deliveryTime": 38,
+                                                "lastMileTravel": 3.7,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "30-35 mins",
-                                                "lastMileTravelString": "4.2 km",
+                                                "slaString": "35-45 mins",
+                                                "lastMileTravelString": "3.7 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-14 02:00:00",
+                                                "nextCloseTime": "2026-04-25 02:00:00",
                                                 "opened": true
                                             },
                                             "badges": {
@@ -2970,7 +3015,7 @@ let resData = {
                                             },
                                             "aggregatedDiscountInfoV3": {
                                                 "header": "ITEMS",
-                                                "subHeader": "AT ₹149"
+                                                "subHeader": "AT ₹148"
                                             },
                                             "orderabilityCommunication": {
                                                 "title": {},
@@ -2997,7 +3042,7 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
                                             "link": "https://www.swiggy.com/city/coimbatore/chinese-wok-gowtham-complex-sivanadha-colony-rest604273",
@@ -3009,192 +3054,33 @@ let resData = {
                                     {
                                         "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
                                         "info": {
-                                            "id": "604228",
-                                            "name": "Big Bowl",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/22/deff0d02-ca1d-4ef9-9d62-b0cbeabf33d3_604228.JPG",
-                                            "locality": "P&T Colony Road",
-                                            "areaName": "Sivanadha Colony",
-                                            "costForTwo": "₹250 for two",
-                                            "cuisines": [
-                                                "Chinese",
-                                                "Tibetan",
-                                                "Desserts"
-                                            ],
-                                            "avgRating": 4.4,
-                                            "parentId": "434792",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "3.3K+",
-                                            "sla": {
-                                                "deliveryTime": 29,
-                                                "lastMileTravel": 4.2,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "4.2 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-14 02:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹139"
-                                            },
-                                            "orderabilityCommunication": {
-                                                "title": {},
-                                                "subTitle": {},
-                                                "message": {},
-                                                "customIcon": {}
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/big-bowl-p-and-t-colony-road-sivanadha-colony-rest604228",
-                                            "text": "RESTAURANT_MENU",
-                                            "type": "WEBLINK"
-                                        },
-                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                                    },
-                                    {
-                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
-                                        "info": {
-                                            "id": "82488",
-                                            "name": "The Belgian Waffle Co.",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/17/60c33ca4-4a0c-4c2e-aa32-7d67a5925d54_82488.JPG",
-                                            "locality": "Avinashi Road",
-                                            "areaName": "Peelamedu",
-                                            "costForTwo": "₹200 for two",
-                                            "cuisines": [
-                                                "Waffle",
-                                                "Desserts",
-                                                "Ice Cream",
-                                                "Beverages"
-                                            ],
-                                            "avgRating": 4.7,
-                                            "veg": true,
-                                            "parentId": "2233",
-                                            "avgRatingString": "4.7",
-                                            "totalRatingsString": "10K+",
-                                            "sla": {
-                                                "deliveryTime": 41,
-                                                "lastMileTravel": 5.9,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "40-45 mins",
-                                                "lastMileTravelString": "5.9 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-13 23:59:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "30% OFF",
-                                                "subHeader": "UPTO ₹75"
-                                            },
-                                            "orderabilityCommunication": {
-                                                "title": {},
-                                                "subTitle": {},
-                                                "message": {},
-                                                "customIcon": {}
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "3.8",
-                                                    "ratingCount": "603"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/the-belgian-waffle-co-avinashi-road-peelamedu-rest82488",
-                                            "text": "RESTAURANT_MENU",
-                                            "type": "WEBLINK"
-                                        },
-                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                                    },
-                                    {
-                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
-                                        "info": {
-                                            "id": "654515",
-                                            "name": "Aryen Biryani",
-                                            "cloudinaryImageId": "5b6ec97be13055daa4d20fa5adc472ad",
+                                            "id": "60958",
+                                            "name": "Denmarrk Restaurant",
+                                            "cloudinaryImageId": "kotlytcyvkm5c5sl86mk",
                                             "locality": "Ganapathy",
                                             "areaName": "Ganapathy",
-                                            "costForTwo": "₹500 for two",
+                                            "costForTwo": "₹200 for two",
                                             "cuisines": [
                                                 "Biryani",
                                                 "South Indian",
-                                                "Indian"
+                                                "Chinese",
+                                                "Rolls & Wraps",
+                                                "Tandoor"
                                             ],
                                             "avgRating": 4.4,
-                                            "parentId": "473735",
+                                            "parentId": "598516",
                                             "avgRatingString": "4.4",
-                                            "totalRatingsString": "6.0K+",
+                                            "totalRatingsString": "25K+",
                                             "sla": {
-                                                "deliveryTime": 29,
-                                                "lastMileTravel": 3,
+                                                "deliveryTime": 34,
+                                                "lastMileTravel": 2.1,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "3.0 km",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.1 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-13 23:00:00",
+                                                "nextCloseTime": "2026-04-24 23:00:00",
                                                 "opened": true
                                             },
                                             "badges": {},
@@ -3208,8 +3094,8 @@ let resData = {
                                                 }
                                             },
                                             "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹75"
+                                                "header": "60% OFF",
+                                                "subHeader": "UPTO ₹120"
                                             },
                                             "orderabilityCommunication": {
                                                 "title": {},
@@ -3230,8 +3116,8 @@ let resData = {
                                             "restaurantOfferPresentationInfo": {},
                                             "externalRatings": {
                                                 "aggregatedRating": {
-                                                    "rating": "3.9",
-                                                    "ratingCount": "1.4K+"
+                                                    "rating": "4.3",
+                                                    "ratingCount": "6.4K+"
                                                 },
                                                 "source": "GOOGLE",
                                                 "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
@@ -3239,10 +3125,10 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/aryen-biryani-ganapathy-rest654515",
+                                            "link": "https://www.swiggy.com/city/coimbatore/denmarrk-restaurant-ganapathy-rest60958",
                                             "text": "RESTAURANT_MENU",
                                             "type": "WEBLINK"
                                         },
@@ -3270,23 +3156,19 @@ let resData = {
                                             "avgRatingString": "4.6",
                                             "totalRatingsString": "99K+",
                                             "sla": {
-                                                "deliveryTime": 20,
+                                                "deliveryTime": 33,
                                                 "lastMileTravel": 2.7,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "15-20 mins",
+                                                "slaString": "30-35 mins",
                                                 "lastMileTravelString": "2.7 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-13 22:30:00",
+                                                "nextCloseTime": "2026-04-24 22:30:00",
                                                 "opened": true
                                             },
                                             "badges": {
                                                 "imageBadges": [
-                                                    {
-                                                        "imageId": "android/static-assets/icons/big_rx.png",
-                                                        "description": "bolt!"
-                                                    },
                                                     {
                                                         "imageId": "v1695133679/badges/Pure_Veg111.png",
                                                         "description": "pureveg"
@@ -3300,12 +3182,6 @@ let resData = {
                                                 "entityBadges": {
                                                     "imageBased": {
                                                         "badgeObject": [
-                                                            {
-                                                                "attributes": {
-                                                                    "description": "bolt!",
-                                                                    "imageId": "android/static-assets/icons/big_rx.png"
-                                                                }
-                                                            },
                                                             {
                                                                 "attributes": {
                                                                     "description": "pureveg",
@@ -3347,7 +3223,7 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
                                             "link": "https://www.swiggy.com/city/coimbatore/sree-aksshayam-peelamedu-rest53332",
@@ -3359,31 +3235,30 @@ let resData = {
                                     {
                                         "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
                                         "info": {
-                                            "id": "385409",
-                                            "name": "Dindigul Venu Biriyani",
-                                            "cloudinaryImageId": "zjlp8z2tdg6dgify5fhd",
-                                            "locality": "PN Palayam",
-                                            "areaName": "Lakshmi Mills",
-                                            "costForTwo": "₹300 for two",
+                                            "id": "754094",
+                                            "name": "Ragam Bakery",
+                                            "cloudinaryImageId": "6046087a978dbcec8028796042e96962",
+                                            "locality": "Nehru Street",
+                                            "areaName": "Peelamedu",
+                                            "costForTwo": "₹150 for two",
                                             "cuisines": [
-                                                "Biryani",
-                                                "South Indian",
-                                                "Indian"
+                                                "Bakery",
+                                                "Snacks"
                                             ],
-                                            "avgRating": 4.4,
-                                            "parentId": "244844",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "3.6K+",
+                                            "avgRating": 4.5,
+                                            "parentId": "446156",
+                                            "avgRatingString": "4.5",
+                                            "totalRatingsString": "809",
                                             "sla": {
-                                                "deliveryTime": 28,
-                                                "lastMileTravel": 3,
+                                                "deliveryTime": 32,
+                                                "lastMileTravel": 3.5,
                                                 "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "3.0 km",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "3.5 km",
                                                 "iconType": "ICON_TYPE_EMPTY"
                                             },
                                             "availability": {
-                                                "nextCloseTime": "2026-04-13 17:00:00",
+                                                "nextCloseTime": "2026-04-24 21:00:00",
                                                 "opened": true
                                             },
                                             "badges": {},
@@ -3397,89 +3272,8 @@ let resData = {
                                                 }
                                             },
                                             "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹19"
-                                            },
-                                            "orderabilityCommunication": {
-                                                "title": {},
-                                                "subTitle": {},
-                                                "message": {},
-                                                "customIcon": {}
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "3.7",
-                                                    "ratingCount": "4.5K+"
-                                                },
-                                                "source": "GOOGLE",
-                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
-                                        "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
-                                        },
-                                        "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/dindigul-venu-biriyani-pn-palayam-lakshmi-mills-rest385409",
-                                            "text": "RESTAURANT_MENU",
-                                            "type": "WEBLINK"
-                                        },
-                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                                    },
-                                    {
-                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
-                                        "info": {
-                                            "id": "744740",
-                                            "name": "Veetu Saapadu By Madhampatty Pakashala",
-                                            "cloudinaryImageId": "d76fe91aa261bbdd4a3f8ad689ee4c70",
-                                            "locality": "Peelamedu",
-                                            "areaName": "Hopes",
-                                            "costForTwo": "₹200 for two",
-                                            "cuisines": [
-                                                "South Indian",
-                                                "Indian"
-                                            ],
-                                            "avgRating": 4.4,
-                                            "veg": true,
-                                            "parentId": "473867",
-                                            "avgRatingString": "4.4",
-                                            "totalRatingsString": "16K+",
-                                            "sla": {
-                                                "deliveryTime": 35,
-                                                "lastMileTravel": 6.7,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "35-45 mins",
-                                                "lastMileTravelString": "6.7 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-04-14 03:00:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹114"
+                                                "header": "70% OFF",
+                                                "subHeader": "UPTO ₹140"
                                             },
                                             "orderabilityCommunication": {
                                                 "title": {},
@@ -3506,10 +3300,239 @@ let resData = {
                                             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                                         },
                                         "analytics": {
-                                            "context": "seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd"
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
                                         },
                                         "cta": {
-                                            "link": "https://www.swiggy.com/city/coimbatore/veetu-saapadu-by-madhampatty-pakashala-peelamedu-hopes-rest744740",
+                                            "link": "https://www.swiggy.com/city/coimbatore/ragam-bakery-nehru-street-peelamedu-rest754094",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                        "info": {
+                                            "id": "780547",
+                                            "name": "Mfc Mysore Filter Coffee",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/e14fb0eb-617d-45fa-8dbd-9ff9e138ffbd_780547.jpg",
+                                            "locality": "Avinashi Road",
+                                            "areaName": "Hopes",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Indian"
+                                            ],
+                                            "avgRating": 4.6,
+                                            "parentId": "464774",
+                                            "avgRatingString": "4.6",
+                                            "totalRatingsString": "760",
+                                            "sla": {
+                                                "deliveryTime": 34,
+                                                "lastMileTravel": 3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "3.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 20:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹29"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/mfc-mysore-filter-coffee-avinashi-road-hopes-rest780547",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                        "info": {
+                                            "id": "1263862",
+                                            "name": "Uma Chicken",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/26/5a4519b7-48d5-4108-a6db-4f636bf70161_1263862.JPG",
+                                            "locality": "Coi Ganapathy",
+                                            "areaName": "Coi Ganapathy",
+                                            "costForTwo": "₹1000 for two",
+                                            "cuisines": [
+                                                "Meat"
+                                            ],
+                                            "avgRating": 4.5,
+                                            "parentId": "720138",
+                                            "avgRatingString": "4.5",
+                                            "totalRatingsString": "53",
+                                            "sla": {
+                                                "deliveryTime": 35,
+                                                "lastMileTravel": 2.4,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.4 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-24 21:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "aggregatedDiscountInfoV2": {},
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "isNewlyOnboarded": true,
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/uma-chicken-coi-ganapathy-rest1263862",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                                        "info": {
+                                            "id": "1122343",
+                                            "name": "Bakingo",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/23/edde5957-7926-4a61-b955-bbe24beb93f9_1122343.JPG",
+                                            "locality": "Ramasamy street",
+                                            "areaName": "KK Pudur",
+                                            "costForTwo": "₹299 for two",
+                                            "cuisines": [
+                                                "Bakery",
+                                                "Desserts",
+                                                "Beverages",
+                                                "Snacks"
+                                            ],
+                                            "avgRating": 4.7,
+                                            "parentId": "3818",
+                                            "avgRatingString": "4.7",
+                                            "totalRatingsString": "951",
+                                            "sla": {
+                                                "deliveryTime": 34,
+                                                "lastMileTravel": 4.1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "4.1 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2026-04-25 01:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "60% OFF",
+                                                "subHeader": "UPTO ₹120"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/coimbatore/bakingo-ramasamy-street-kk-pudur-rest1122343",
                                             "text": "RESTAURANT_MENU",
                                             "type": "WEBLINK"
                                         },
@@ -6598,8 +6621,8 @@ let resData = {
                         "citySlug": "coimbatore",
                         "lat": "11.021988",
                         "lng": "76.9697068",
-                        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                        "gandalfRequest": "{\"sortAttribute\":\"relevance\",\"isFiltered\":false,\"queryId\":\"seo-data-ba8a0d39-cdd6-4f5c-8401-e08735a773cd\",\"seoParams\":{\"apiName\":\"FoodHomePage\",\"brandId\":\"\",\"seoUrl\":\"www.swiggy.com\",\"pageType\":\"FOOD_HOME_PAGE\",\"businessLine\":\"FOOD\"}}",
+                        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+                        "gandalfRequest": "{\"sortAttribute\":\"relevance\",\"isFiltered\":false,\"queryId\":\"seo-data-0300a5d6-50f0-4b6c-b716-08e59e56def2\",\"seoParams\":{\"apiName\":\"FoodHomePage\",\"brandId\":\"\",\"seoUrl\":\"www.swiggy.com\",\"pageType\":\"FOOD_HOME_PAGE\",\"businessLine\":\"FOOD\"}}",
                         "id": "meta_data",
                         "metaInfo": {
                             "pageType": "FOOD_HOME_PAGE",
@@ -6627,10 +6650,9 @@ let resData = {
         "cacheExpiryTime": 240,
         "nextFetch": 1
     },
-    "tid": "b161a155-938e-487b-9024-9c2c990e5fe0",
-    "sid": "qrnad4d6a7f-16f1-4449-8521-1535cc368",
+    "tid": "8acb9122-efa8-44f4-89c3-2b391383281a",
+    "sid": "qz5115a5c7e-49f6-4e12-8d47-f7ce6d42d",
     "deviceId": "843ca7d6-e0af-27f8-ca2e-8e54fa026af6",
-    "csrfToken": "G1TyIpq1po2z-22xa8frnWdQq0mCCUNL1GFmMncc"
+    "csrfToken": "S9PZFRXBOTj6-jV9WpFAaex_6xjRCxRQQVKIzS2Y"
 }
 
-export default resData;

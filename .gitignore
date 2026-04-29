@@ -1,3 +1,7 @@
 /node_modules
 /dist
 /.parcel-cache
+/server
+
+/src/components/RestaurantMenu.js
+/src/components/RestaurantMenuItems.js
