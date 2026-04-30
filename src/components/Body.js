@@ -12,8 +12,6 @@ const Body = () => {
     let [startImageIndex,setStartImageIndex]=useState(0)
     let itemsPerPage=7;
     let visibilityItems=imageSlider.slice(startImageIndex,startImageIndex+itemsPerPage);
-    console.log(imageSlider)
-    console.log(visibilityItems)
 
     let getData = () => {
         let imageArray=[];
