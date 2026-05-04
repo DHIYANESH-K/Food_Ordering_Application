@@ -1,6 +1,6 @@
-let  About=()=>{
-    return( 
-        <div>About</div>
+let About = () => {
+    return (
+        <div className="pt-20">About</div>
     )
 }
 

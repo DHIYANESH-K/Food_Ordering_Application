@@ -11,40 +11,40 @@ import RestaurantMenu from "./components/RestaurantMenu";
 
 const AppLayout = () => {
     return (
-        <div className="app">
+        <div className="bg-gray-50">
             <Header />
-            <Outlet/>
+            <Outlet />
         </div>
     );
 };
 
-let appRouter=createBrowserRouter([
+let appRouter = createBrowserRouter([
     {
-        path:"/",
-        element:<AppLayout/>,
-        children:[
+        path: "/",
+        element: <AppLayout />,
+        children: [
             {
-                path:"/",
-                element:<Body/>
+                path: "/",
+                element: <Body />
             },
             {
-                path:"/contact",
-                element:<Contact/>
+                path: "/contact",
+                element: <Contact />
             },
             {
-                path:"/about",
-                element:<About/>
+                path: "/about",
+                element: <About />
             },
             {
-                path:"/cart",
-                element:<Cart/>
+                path: "/cart",
+                element: <Cart />
             },
             {
-                path:"/restaurant/:resId",
-                element:<RestaurantMenu/>
+                path: "/restaurant/:resId",
+                element: <RestaurantMenu />
             }
         ],
-        errorElement:<Error/>
+        errorElement: <Error />
     },
 ])
 

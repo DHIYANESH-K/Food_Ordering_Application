@@ -1,6 +1,6 @@
-let Cart=()=>{
-    return(
-        <div>Cart</div>
+let Cart = () => {
+    return (
+        <div className="pt-20">Cart</div>
     )
 }
 

@@ -1,6 +1,6 @@
-let Contact=()=>{
-    return(
-        <div>Contact</div>
+let Contact = () => {
+    return (
+        <div className="pt-20">Contact</div>
     )
 }
 

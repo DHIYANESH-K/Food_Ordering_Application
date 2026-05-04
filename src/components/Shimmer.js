@@ -1,20 +1,13 @@
 let Shimmer = () => {
-    return (<div className="shimmer_container">
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
-        <div className="shimmer_card"></div>
+    return (<div className="">
+        <div className=""></div>
+        <div className=""></div>
+        <div className=""></div>
+        <div className=""></div>
+        <div className=""></div>
+        <div className=""></div>
+        <div className=""></div>
+        <div className=""></div>
     </div>)
 }
 
