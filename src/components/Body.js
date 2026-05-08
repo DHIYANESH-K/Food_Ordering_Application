@@ -74,7 +74,7 @@ const Body = () => {
                     <input className="border border-gray-500 rounded-md h-9 w-[20vw] indent-4" placeholder="Search Restaurant Name" type="text" value={searchText} onChange={(e) => {
                         setSearchText(e.target.value);
                         let filteredRes = listOfRestaurants.filter((element, index) => {
-                            return element.info.name.toLowerCase().includes(searchText.toLowerCase())
+                            return element.info.name.toLowerCase().includes(e.target.value.toLowerCase())
                         })
                         setFilteredRestaurants(filteredRes);
                     }}></input>
