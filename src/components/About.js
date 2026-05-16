@@ -5,18 +5,17 @@ class About extends Component{
     constructor()
     {
         super();
-        console.log("Parent constructor")
+        // console.log("Parent constructor")
     }
     componentDidMount(){
-        console.log("Parent componentDidMount")
+        // console.log("Parent componentDidMount")
     }
     render(){
-        console.log("Parent render")
+        // console.log("Parent render")
         return (
             <div className="pt-20">
                 <div>About Us</div>
-                <UserClass name={"Dhiyanesh K"} location={"Tamil Nadu"} phone={"1234567890"}></UserClass>
-                <UserClass name={"Venkatesh A"} location={"Tamil Nadu"} phone={"1234567890"}></UserClass>
+                <UserClass  location={"Tamil Nadu"} phone={"1234567890"}></UserClass>
             </div>
         )
     }
