@@ -16,6 +16,7 @@ class About extends Component{
             <div className="pt-20">
                 <div>About Us</div>
                 <UserClass name={"Dhiyanesh K"} location={"Tamil Nadu"} phone={"1234567890"}></UserClass>
+                <UserClass name={"Venkatesh A"} location={"Tamil Nadu"} phone={"1234567890"}></UserClass>
             </div>
         )
     }
